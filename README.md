@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
-<h3 align="center">A student in Software Engineering at [Université Internationale d'Agadir](https://e-polytechnique.ma/).</h3>
+<h3 align="center">A student in Software Engineering at [https://github.com/AdamBelabdi?tab=repositories](Université Internationale d'Agadir).</h3>
 
 - 🌱 I’m currently learning **dart language, flutter mobile apps development & lua for Garry's Mod.**
 
