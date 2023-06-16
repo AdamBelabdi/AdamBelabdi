@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
-<h3 align="center">A student in Software Engineering at Université Internationale d'Agadir.</h3>
+<h3 align="center">A student in Biomedical Engineering at Université Internationale d'Agadir.</h3>
 
 
-- 🌱 I’m currently learning **dart language, flutter mobile apps development & lua for Garry's Mod.**
+- 🌱 I’m currently learning **dart language, flutter mobile apps development & react native.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamBelabdi?tab=repositories](https://github.com/AdamBelabdi?tab=repositories)
 
